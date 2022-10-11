@@ -9,6 +9,7 @@ pkg update
 pkg upgrade
 pkg install python
 pkg install git
+rm -rf FB-Brute
 git clone https://github.com/STLP-TEAM/FB-Brute
 pip install requests
 pip install mechanize
@@ -17,7 +18,7 @@ python brute.py
 ```
 # Short Command:⬇️
 ```
-termux-setup-storage && pkg update && pkg upgrade && pkg install python && pkg install git && git clone https://github.com/STLP-TEAM/FB-Brute && pip install requests && pip install mechanize && cd FB-Brute && python brute.py
+termux-setup-storage && pkg update && pkg upgrade && pkg install python && pkg install git && rm -rf FB-Brute && git clone https://github.com/STLP-TEAM/FB-Brute && pip install requests && pip install mechanize && cd FB-Brute && python brute.py
 ```
 <h3> Join Our Facebook Group For Tool's Password</h3>
 Group Link:
