@@ -24,7 +24,6 @@ termux-setup-storage && pkg update && pkg upgrade && pkg install python && pkg i
 ```
 # Demo SS:⬇️
 <img src="https://github.com/STLP-TEAM/FB-Brute/blob/main/20221012_190507.jpg">
-
 <h3> Join Our Facebook Group For Tool's Password</h3>
 Group Link:
 https://facebook.com/groups/spamming.termux.learning.point/
